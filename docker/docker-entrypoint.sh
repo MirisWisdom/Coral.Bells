@@ -16,6 +16,7 @@ if [ "$1" = 'frankenphp' ] || [ "$1" = 'php' ] || [ "$1" = 'artisan' ]; then
 		sleep 1
 		ATTEMPTS_LEFT_TO_REACH_DATABASE=$((ATTEMPTS_LEFT_TO_REACH_DATABASE - 1))
 		echo "Still waiting for database to be ready... Or maybe the database is not reachable. $ATTEMPTS_LEFT_TO_REACH_DATABASE attempts left."
+		sqlite3 "storage/database.sqlite" "pragma journal_mode=wal;"
 	done
 
 	if [ $ATTEMPTS_LEFT_TO_REACH_DATABASE -eq 0 ]; then
