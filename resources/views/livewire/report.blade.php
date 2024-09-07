@@ -71,7 +71,7 @@
                         <span class="text-dark">
                             Your bells have so far helped
                             <span class="text-primary">
-                                24 fellow corals
+                                25 fellow corals
                             </span> :)
                         </span>
                     </p>
@@ -93,7 +93,7 @@
                         Weakness: Kryptonite
                     </div>
                     <div class="text-light">
-                        Helped 150+ Corals with your Bells
+                        Helped 25 Corals with your Bells
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@
                         Friendly Neighborhood Coral-Bell
                     </div>
                     <div class="text-light">
-                        Helped 50+ Corals with your Bells
+                        Helped 20 Corals with your Bells
                     </div>
                 </div>
             </div>
@@ -119,7 +119,7 @@
                         I Need a Hero
                     </div>
                     <div class="text-light">
-                        Helped your 1st Coral with a Bell
+                        Helped your 1st Coral with a Bell!
                     </div>
                 </div>
             </div>
