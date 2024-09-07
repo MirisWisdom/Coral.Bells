@@ -23,8 +23,6 @@ $theme-colors: (
 
 body {
     height: 100vh;
-    background-color: red;
-    /* For browsers that do not support gradients */
     background-image: linear-gradient(to bottom left, #FF6E66, #B5EAF5);
 }
 

@@ -1,6 +1,19 @@
 <div>
     <div class="container-fluid px-4">
-        <div class="card card-body mt-5">
+        <div class="row my-4">
+            <div class="col-auto">
+                <a href="{{ route('welcome') }}"
+                   class="btn text-light"
+                   style="font-size: 24pt"
+                   wire:navigate>
+                    &lt;
+                </a>
+            </div>
+            <div class="col"></div>
+            <div class="col-auto">
+            </div>
+        </div>
+        <div class="card card-body">
             <div class="h6 text-center text-info">
                 Location:
             </div>
