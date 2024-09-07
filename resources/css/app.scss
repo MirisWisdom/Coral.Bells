@@ -1,0 +1,44 @@
+$theme-colors: (
+    "primary": #FF6E66,
+    "secondary": #B5EAF5,
+    "success": red,
+    "info": #51BBC7,
+    "warning": red,
+    "danger": red,
+    "light": #E9F8FB,
+    "dark": #122E40
+);
+
+@import "bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css');
+
+* {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600 !important;
+    font-style: normal;
+}
+
+body {
+    height: 100vh;
+    background-color: red;
+    /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom left, #FF6E66, #B5EAF5);
+}
+
+.logo {
+    background-image: url('../svg/logo.svg');
+}
+
+.overlay {
+    background-image: url('../svg/logo.svg');
+    background-size: cover;
+    position: absolute;
+}
+
+.btn-light {
+    border-radius: 50px;
+    box-shadow: 0px 2px 3px rgba(18, 46, 64, 0.20);
+}
