@@ -9,13 +9,3 @@ Route::get('/', function () {
 Route::get('/report', function () {
     return view('report');
 })->name('report');
-
-Route::middleware([
-    'auth:sanctum',
-    config('jetstream.auth_session'),
-    'verified',
-])->group(function () {
-    Route::get('/dashboard', function () {
-        return view('dashboard');
-    })->name('dashboard');
-});
