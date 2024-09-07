@@ -63,8 +63,8 @@
                         </div>
                     </div>
                     <div class="col">
-                        <div class="h1 text-dark">50</div>
-                        Bells raised
+                        <div class="h1 text-dark">25</div>
+                        Bells heard
                     </div>
                 </div>
             </div>

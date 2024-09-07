@@ -1,5 +1,5 @@
 <div>
-    <div class="container-fluid px-4">
+    <div class="container-fluid px-4 mb-4">
         <div class="row my-4">
             <div class="col-auto">
                 <a href="{{ route('welcome') }}"
@@ -24,16 +24,16 @@
                 </p>
                 <hr>
                 <div class="row">
-                    <div class="col">
+                    <div class="col-auto">
                         <button type="button"
                                 class="btn btn-secondary text-dark"
                                 wire:click="change">
-                            Suggest Alternatives
+                            Alternatives
                         </button>
                     </div>
-                    <div class="col-auto">
+                    <div class="col">
                         <a href="{{ route('plans', ['registered' => true]) }}"
-                           class="btn btn-primary text-light text-uppercase"
+                           class="btn btn-primary text-light text-uppercase w-100"
                            wire:navigate>
                             Register my Journey!
                         </a>
@@ -46,7 +46,7 @@
                 <textarea class="form-control text-dark border-0"
                           style="min-height: 360px"
                           placeholder="Help us deeply understand your journey. For example, are you going to the office? Is your child going to school? Will you be walking at night? Is this a routine or recurring journey? We will use this information to guide you with safety and comfort to your destination."></textarea>
-                <div class="row g-1">
+                <div class="row g-1 mt-4">
                     <div class="col-auto">
                         <button class="btn">
                             <div class="h4 text-primary mb-0">
