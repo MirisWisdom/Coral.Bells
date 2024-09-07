@@ -1,5 +1,16 @@
-<div class="container-fluid">
+<div class="container-fluid px-4">
     <div class="overlay">
+    </div>
+    <div class="row my-4">
+        <div class="col"></div>
+        <div class="col-auto">
+            <a href="{{ route('profile') }}"
+               class="btn text-light"
+               style="font-size: 24pt"
+               wire:navigate>
+                ^_^
+            </a>
+        </div>
     </div>
     <header>
         <div class="row mt-5">
@@ -19,7 +30,7 @@
     <main class="row">
         <div class="col-md">
         </div>
-        <div class="col-md px-4">
+        <div class="col-md">
             <div class="mt-5">
                 <button class="btn w-100 btn-light py-3 mb-2">
                     <div class="h4 mb-0 text-uppercase text-info">
@@ -33,14 +44,6 @@
                     <div class="h4 mb-0 text-uppercase text-primary">
                         <i class="fa-regular fa-bell"></i>
                         Raise A New Bell
-                    </div>
-                </a>
-                <a class="btn w-100 btn-light py-3 mt-2"
-                   href="{{ route('profile') }}"
-                   wire:navigate>
-                    <div class="h4 mb-0 text-uppercase text-info">
-                        <i class="fa-regular fa-user"></i>
-                        My Coral Bloom
                     </div>
                 </a>
             </div>
