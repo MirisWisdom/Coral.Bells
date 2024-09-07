@@ -11,7 +11,7 @@
             </div>
             <div class="col"></div>
             <div class="col-auto">
-                <a href="{{ route('welcome') }}"
+                <a href="{{ route('profile') }}"
                    class="btn text-light"
                    style="font-size: 24pt"
                    wire:navigate>

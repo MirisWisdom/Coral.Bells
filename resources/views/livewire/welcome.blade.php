@@ -27,12 +27,20 @@
                         Plan a Journey
                     </div>
                 </button>
-                <a class="btn w-100 btn-light py-3 mt-2"
+                <a class="btn w-100 btn-light py-3 mt-2 mb-2"
                    href="{{ route('report') }}"
                    wire:navigate>
                     <div class="h4 mb-0 text-uppercase text-primary">
                         <i class="fa-regular fa-bell"></i>
                         Raise A New Bell
+                    </div>
+                </a>
+                <a class="btn w-100 btn-light py-3 mt-2"
+                   href="{{ route('profile') }}"
+                   wire:navigate>
+                    <div class="h4 mb-0 text-uppercase text-info">
+                        <i class="fa-regular fa-user"></i>
+                        My Coral Bloom
                     </div>
                 </a>
             </div>

@@ -38,7 +38,7 @@
     @livewireStyles
 </head>
 
-<body class="font-sans antialiased">
+<body class="font-sans antialiased {{ isset($bg) ? $bg : 'bg-01' }}">
 
     <div class="min-h-screen bg-gray-100 dark:bg-gray-900">
 
