@@ -11,6 +11,12 @@
             </div>
             <div class="col"></div>
             <div class="col-auto">
+                <a href="{{ route('welcome') }}"
+                   class="btn text-light"
+                   style="font-size: 24pt"
+                   wire:navigate>
+                    ^_^
+                </a>
             </div>
         </div>
         <div class="card card-body">
