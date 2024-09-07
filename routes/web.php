@@ -10,6 +10,10 @@ Route::get('/journey', function () {
     return view('journey');
 })->name('journey');
 
+Route::get('/plans', function () {
+    return view('plans');
+})->name('plans');
+
 Route::get('/report', function () {
     return view('report');
 })->name('report');

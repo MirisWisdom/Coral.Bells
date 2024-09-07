@@ -36,6 +36,15 @@ $theme-colors: (
     background: linear-gradient(0.50turn, #51BBC7, #FF6E66, #51BBC7);
 }
 
+.bg-04 {
+    height: 100vh;
+    background-image: linear-gradient(to bottom left, #51BBC7, #B5EAF5);
+}
+
+.banner {
+    background: linear-gradient(0.25turn, #FF6E66, #122E40);
+}
+
 .logo {
     background-image: url('../svg/logo.svg');
 }
@@ -78,6 +87,10 @@ $theme-colors: (
     color: #122E40;
 }
 
+.btn-info {
+    border-radius: 50px;
+}
+
 .card {
     border-radius: 25px;
     box-shadow: 0px 2px 3px rgba(18, 46, 64, 0.20);
@@ -101,6 +114,11 @@ p, span {
 .torn-paper {
     background-image: url('../svg/paper.svg');
     background-repeat: repeat-y;
+}
+
+.torn-paper-90 {
+    background-image: url('../svg/paper-90.svg');
+    background-repeat: repeat-x;
 }
 
 .happy-sm {

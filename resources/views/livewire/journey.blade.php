@@ -28,12 +28,13 @@
                         <button type="button"
                                 class="btn btn-secondary text-dark"
                                 wire:click="change">
-                            Give me alternatives...
+                            Suggest Alternatives
                         </button>
                     </div>
                     <div class="col-auto">
-                        <a href="#"
-                           class="btn btn-primary text-light text-uppercase">
+                        <a href="{{ route('plans', ['registered' => true]) }}"
+                           class="btn btn-primary text-light text-uppercase"
+                           wire:navigate>
                             Register my Journey!
                         </a>
                     </div>
