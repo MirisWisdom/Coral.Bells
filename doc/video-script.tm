@@ -6,6 +6,14 @@
   <doc-data|<doc-title|Video Proposal>|<doc-subtitle|Coral
   Bells>|<doc-date|<date>>>
 
+  <with|font-series|bold|Dream wish:>
+
+  Introduce the video with a nifty clip of a user raising a bell, and another
+  user typing in their journey, then we transition to the back-end relying on
+  the input (and open data) to show the reassuring safety plan to the user
+  who typed the journey, and show the thank you notification to the person
+  who raised the bell.
+
   <with|font-series|bold|Proposed priorities:>
 
   <\itemize>
@@ -110,9 +118,11 @@
   submitted.]>
 
   <strong|Narrator:> ``When you `raise the bell'\Vwhether it's reporting a
-  sighting, feeling unsafe, or simply sharing your concerns\Vyour input helps
-  enhance community safety. Coral Bells turns these reports into actionable
-  insights, fostering both personal safety and civic engagement."
+  sighting, feeling unsafe, or sharing your concerns\Vyour input helps
+  enhance community safety. And here's something special: when your
+  contribution is used by others to plan their journey, you'll receive a
+  thank you notification. It's a reminder that your actions make a real
+  difference and fosters a sense of connection within the community."
 
   <strong|[Visuals of the app focusing on showing `safe places' like
   hospitals and police stations on the map, with a disclaimer about not
@@ -121,8 +131,7 @@
   <strong|Narrator:> ``Our safety maps highlight essential locations like
   hospitals and police stations, guiding you to vital resources without
   overwhelming you with potentially distressing details. This precautionary
-  approach ensures that you receive practical support while avoiding
-  unnecessary fear."
+  approach ensures practical support while avoiding unnecessary fear."
 
   <strong|[Scene transitions to a government office with analysts working
   with data on their screens. Visuals of Coral Bells' data being transformed
