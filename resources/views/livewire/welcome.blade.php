@@ -5,10 +5,8 @@
         <div class="col"></div>
         <div class="col-auto">
             <a href="{{ route('profile') }}"
-               class="btn text-light"
-               style="font-size: 24pt"
+               class="btn happy-sm"
                wire:navigate>
-                ^_^
             </a>
         </div>
     </div>

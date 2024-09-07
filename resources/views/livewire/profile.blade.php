@@ -23,9 +23,8 @@
     <div class="row my-4">
         <div class="col"></div>
         <div class="col-auto">
-            <div class="btn btn-outline-light"
-                 style="font-size: 48pt; border-radius: 100%; width: 192px; height: 192px; line-height: 172px">
-                ^_^
+            <div class="btn happy-lg">
+                 &nbsp;
             </div>
         </div>
         <div class="col"></div>
