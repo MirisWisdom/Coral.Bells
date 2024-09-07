@@ -94,19 +94,18 @@
   with care to offer thoughtful guidance and comfort throughout your journey.
   The name `Coral Bells' reflects the delicate, bell-shaped blooms of the
   coral flower. Just like these flowers, our users\Vour `corals'\Vare
-  resilient and adaptable members of their communities. The `bells' represent
-  safety alerts and symbolise how our users' contributions help keep each
-  other safe.\Q
+  resilient and adaptable members of their communities. We want to see our
+  corals blossom, meaning we aim to empower you to navigate with confidence,
+  even in places you might have previously avoided.\Q
 
   <strong|[Screen transitions to a user speaking their journey into the app
   and receiving warm, reassuring guidance. The app displays personalised
   messages and safe locations.]>
 
-  <strong|Narrator:> \PCoral Bells is designed for everyone. Whether you're a
-  female student walking alone at night, a parent ensuring a safe route for
-  your child, an individual with disabilities navigating unfamiliar areas, or
-  anyone who simply wants to feel secure on their journey, Coral Bells
-  provides straightforward and comforting guidance. Just type or speak your
+  <strong|Narrator:> \PCoral Bells is designed for everyone. For students
+  walking alone at night, parents ensuring a safe route for their children,
+  or anyone venturing out for late-night shopping, Coral Bells provides
+  straightforward and comforting guidance. Just type or speak your
   destination, and receive support tailored to your unique needs, including
   well-lit paths, routes avoiding isolated areas, and accessibility
   features.\Q
@@ -120,9 +119,9 @@
   profiles. For instance, a parent can set up profiles for their children to
   avoid hazardous areas, while someone with mobility challenges might receive
   recommendations for routes with better accessibility features. Whether
-  you're managing late-night study sessions or navigating diverse routes,
-  Coral Bells is here to support everyone, making journeys safer and more
-  comfortable.\Q
+  you're navigating your local area late at night, planning a day out, or
+  visiting a new territory altogether, Coral Bells is here to make your
+  journeys safer and more comfortable.\Q
 
   <strong|[Cut to scenes of users `raising the bell' on the app. Show
   animations of how user-generated reports and safety concerns are
@@ -144,9 +143,10 @@
   <strong|Narrator:> \POur safety maps guide you to essential locations like
   hospitals and police stations, providing practical support while focusing
   on keeping you at ease. We also include local services that enhance safety
-  and well-being, making it easier for you to explore new places, including
-  the Northern Territory, with confidence. By ensuring that visitors feel
-  secure, we help boost local tourism and support regional economies.\Q
+  and well-being, making it easier for everyone to explore new places,
+  including the Northern Territory, with confidence. By helping people feel
+  secure, we indirectly support broader goals like regional development and
+  tourism.\Q
 
   <strong|[Scene transitions to a graphic showing Coral Bells data analysis.
   This graphic could be a simplified, animated representation of how various
@@ -164,13 +164,15 @@
   weather icons, and maps) being processed and analysed.]>
 
   <strong|Narrator:> \PThis blend of user-generated reports and open
-  government data not only provides personalised guidance to users but also
+  government data not only provides personalised guidance to users, but also
   supports broader safety initiatives. By addressing under-reported incidents
   and amplifying the voices of often unheard groups\Vincluding those with
   disabilities\Vwe ensure these perspectives are considered in effective
-  policy-making and community planning. Our comprehensive approach also
-  highlights and promotes local attractions, making areas like the Northern
-  Territory more accessible and inviting for tourists.\Q
+  policy-making and community planning. Additionally, analysing safety data
+  allows us to infer insights about community wellbeing, as a sense of safety
+  is closely linked to overall wellbeing. This, in turn, supports the
+  creation of safer environments, indirectly encouraging exploration and
+  contributing to local development and tourism.\Q
 
   <strong|[Scene showing Coral Bells app interface with a focus on
   user-friendly guidance through natural language.]>
@@ -189,26 +191,28 @@
   contribute to a broader community impact. Reporting incidents and sharing
   observations helps improve both individual safety and our collective
   understanding. Your engagement aids in creating a more responsive and
-  connected community, fostering greater confidence for both locals and
-  visitors.\Q
+  connected community, fostering greater confidence for locals and visitors
+  alike.\Q
 
   <strong|[Final scene shows users happily interacting with the app and
   officials making decisions based on Coral Bells' insights.]>
 
   <strong|Narrator:> \PCoral Bells is dedicated to guiding and supporting
   every individual with empathy and understanding. By addressing
-  under-reported incidents, giving a voice to under-represented groups,
-  enhancing local information accessibility, and boosting tourism, we offer
-  comprehensive support that fosters a sense of community. Our innovative
-  approach not only tracks your impact but also celebrates it, reinforcing
-  the meaningful difference you make through your contributions.\Q
+  under-reported incidents, giving a voice to under-represented groups, and
+  enhancing local safety information, we foster a sense of community and
+  well-being. Our innovative approach not only tracks your impact but also
+  celebrates it, reinforcing the meaningful difference you make through your
+  contributions.\Q
 
   <strong|[Screen fades to the Coral Bells logo with a call-to-action:
   \PDownload Coral Bells today and start your journey with confidence.\Q]>
 
-  <strong|Narrator:> \PCoral Bells\Vproviding empathetic guidance,
-  comprehensive safety support, and fostering inclusive community connection
-  while driving impactful change through thoughtful data integration.\Q
+  <strong|Narrator:> \PCoral Bells\Vproviding empathetic guidance and
+  comprehensive safety support while driving impactful change through
+  thoughtful data integration. By enhancing community safety and wellbeing,
+  we create a supportive environment that encourages exploration and
+  indirectly contributes to local development and tourism.\Q
 
   <strong|[End with soothing music and the name of the team.]>
 </body>
