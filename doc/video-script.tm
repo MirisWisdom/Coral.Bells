@@ -124,7 +124,7 @@
   Coral Bells is here to support everyone, making journeys safer and more
   comfortable.\Q
 
-  <strong|[Cut to scenes of users \Praising the bell\Q on the app. Show
+  <strong|[Cut to scenes of users `raising the bell' on the app. Show
   animations of how user-generated reports and safety concerns are
   submitted.]>
 
@@ -132,8 +132,10 @@
   observation or expressing a concern\Vyou contribute meaningfully to our
   community's safety. And here's something special: when your contribution is
   used by others to plan their journey, you'll receive a heartfelt thank you
-  notification. It's a warm reminder that your actions make a real difference
-  and strengthen our shared sense of connection.\Q
+  notification. Additionally, we recognise your impact with badges\Veach
+  badge represents your contribution to others' safety and comfort. You can
+  see how many bells you've set in motion to help fellow users, showcasing
+  your long-term impact and dedication to community well-being.\Q
 
   <strong|[Visuals of the app focusing on showing `safe places' like
   hospitals and police stations on the map, with a disclaimer about not
@@ -141,8 +143,10 @@
 
   <strong|Narrator:> \POur safety maps guide you to essential locations like
   hospitals and police stations, providing practical support while focusing
-  on keeping you at ease. We emphasise positive, useful information to help
-  you stay prepared without inducing unnecessary worry.\Q
+  on keeping you at ease. We also include local services that enhance safety
+  and well-being, making it easier for you to explore new places, including
+  the Northern Territory, with confidence. By ensuring that visitors feel
+  secure, we help boost local tourism and support regional economies.\Q
 
   <strong|[Scene transitions to a graphic showing Coral Bells data analysis.
   This graphic could be a simplified, animated representation of how various
@@ -151,21 +155,22 @@
   <strong|Narrator:> \PFor governments and organisations, Coral Bells offers
   valuable insights through detailed reports. By integrating a rich array of
   data sets\Vsuch as reports of crocodile encounters, vehicle accident data,
-  weather patterns, and accessibility features\Vwe address under-reported
-  incidents and amplify the voices of those often unheard, including people
-  with disabilities. Our approach ensures these voices are heard and
-  considered in effective policy-making and community planning.\Q
+  weather patterns, and accessibility features\Vwe create a comprehensive
+  safety network. Incorporating data on crocodile sightings helps manage
+  risks in specific areas, while road accident statistics and weather
+  patterns inform safer route planning.\Q
 
   <strong|[Cut to visuals of different types of data sources (e.g., charts,
   weather icons, and maps) being processed and analysed.]>
 
-  <strong|Narrator:> \PWe blend diverse data sources into a comprehensive
-  safety network. For example, incorporating data on crocodile sightings
-  helps manage risks in certain areas, while integrating road accident
-  statistics and weather patterns informs safer route planning. This
-  combination of user-generated reports and open government data allows us to
-  offer personalised guidance while supporting broader safety initiatives and
-  driving impactful change.\Q
+  <strong|Narrator:> \PThis blend of user-generated reports and open
+  government data not only provides personalised guidance to users but also
+  supports broader safety initiatives. By addressing under-reported incidents
+  and amplifying the voices of often unheard groups\Vincluding those with
+  disabilities\Vwe ensure these perspectives are considered in effective
+  policy-making and community planning. Our comprehensive approach also
+  highlights and promotes local attractions, making areas like the Northern
+  Territory more accessible and inviting for tourists.\Q
 
   <strong|[Scene showing Coral Bells app interface with a focus on
   user-friendly guidance through natural language.]>
@@ -184,17 +189,19 @@
   contribute to a broader community impact. Reporting incidents and sharing
   observations helps improve both individual safety and our collective
   understanding. Your engagement aids in creating a more responsive and
-  connected community.\Q
+  connected community, fostering greater confidence for both locals and
+  visitors.\Q
 
   <strong|[Final scene shows users happily interacting with the app and
   officials making decisions based on Coral Bells' insights.]>
 
   <strong|Narrator:> \PCoral Bells is dedicated to guiding and supporting
   every individual with empathy and understanding. By addressing
-  under-reported incidents and giving a voice to under-represented groups,
-  including those with accessibility needs, we offer comprehensive support
-  that enhances journey safety and fosters a sense of community while driving
-  meaningful impact through data-informed policy changes.\Q
+  under-reported incidents, giving a voice to under-represented groups,
+  enhancing local information accessibility, and boosting tourism, we offer
+  comprehensive support that fosters a sense of community. Our innovative
+  approach not only tracks your impact but also celebrates it, reinforcing
+  the meaningful difference you make through your contributions.\Q
 
   <strong|[Screen fades to the Coral Bells logo with a call-to-action:
   \PDownload Coral Bells today and start your journey with confidence.\Q]>
