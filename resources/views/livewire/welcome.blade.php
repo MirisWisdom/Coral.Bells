@@ -24,7 +24,7 @@
                 <button class="btn w-100 btn-light py-3 mb-2">
                     <div class="h4 mb-0 text-uppercase text-info">
                         <i class="fa-regular fa-calendar"></i>
-                        Plan My Journey
+                        Plan a Journey
                     </div>
                 </button>
                 <a class="btn w-100 btn-light py-3 mt-2"
