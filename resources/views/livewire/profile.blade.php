@@ -79,38 +79,80 @@
             <div class="card card-body"
                  style="box-shadow: none; border-radius: 0; border: 0; border-end-end-radius: 10px; border-start-end-radius: 10px">
                 <div>
-                    <div class="text-info">
-                        E-Mail Address:
+                    <div class="row">
+                        <div class="col-auto">
+                            <div class="text-info">
+                                E-Mail Address:
+                            </div>
+                        </div>
+                        <div class="col"></div>
+                        <div class="col-auto">
+                            <div class="text-info">
+                                <i class="fa-solid fa-pencil"></i>
+                            </div>
+                        </div>
                     </div>
                     <div class="text-dark">
                         alice.marisa@gmail.com
                     </div>
                 </div>
                 <div class="mt-3">
-                    <div class="text-info">
-                        Gender:
+                    <div class="row">
+                        <div class="col-auto">
+                            <div class="text-info">
+                                Gender:
+                            </div>
+                        </div>
+                        <div class="col"></div>
+                        <div class="col-auto">
+                            <div class="text-info">
+                                <i class="fa-solid fa-pencil"></i>
+                            </div>
+                        </div>
                     </div>
                     <div class="text-dark">
                         Female
                     </div>
                 </div>
                 <div class="mt-3">
-                    <div class="text-info">
-                        Age Range:
+                    <div class="row">
+                        <div class="col-auto">
+                            <div class="text-info">
+                                Age Range:
+                            </div>
+                        </div>
+                        <div class="col"></div>
+                        <div class="col-auto">
+                            <div class="text-info">
+                                <i class="fa-solid fa-pencil"></i>
+                            </div>
+                        </div>
                     </div>
                     <div class="text-dark">
                         18 - 24
                     </div>
                 </div>
-                <div class="text-info">
-                    Additional Details:
-                </div>
-                <div class="text-dark">
-                    <ul>
-                        <li>Student</li>
-                        <li>Prefers populated areas</li>
-                        <li>Doesn't like cold weather</li>
-                    </ul>
+                <div class="mt-3">
+                    <div class="row">
+                        <div class="col-auto">
+                            <div class="text-info">
+                                Additional Details:
+                            </div>
+                        </div>
+                        <div class="col"></div>
+                        <div class="col-auto">
+                            <div class="text-info">
+                                <i class="fa-solid fa-pencil"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-dark">
+                        <ul>
+                            <li>Student</li>
+                            <li>Prefers populated areas</li>
+                            <li>Doesn't like cold weather</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
