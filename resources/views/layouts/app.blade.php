@@ -31,7 +31,7 @@
             @endif
 
             <!-- Page Content -->
-            <main class="container-fluid">
+            <main>
                 @yield('body')
             </main>
         </div>
