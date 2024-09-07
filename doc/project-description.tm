@@ -7,111 +7,91 @@
     Guiding and Reassuring Safety, Holistically and Empathetically
   </doc-subtitle>|<doc-misc|Our GovHack 2024 Entry>>
 
-  <\table-of-contents|toc>
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|1<space|2spc>Our
-    Team> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-1><vspace|0.5fn>
+  <with|font-series|bold|Coral Bells> is a mobile app designed to offer a
+  comforting and reassuring experience for users\Vour
+  \P<with|font-series|bold|corals>\Q\Vas they plan their journeys and
+  contribute to their communities. In this context, a
+  \P<with|font-series|bold|journey>\Q refers to any trip or excursion,
+  whether it's a female student walking home at night, a parent sending their
+  child off on a trip, an individual with disabilities navigating
+  inaccessible areas, or anyone who simply wants to feel secure when
+  travelling onto unknown or unsettling territories.
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|2<space|2spc>Our
-    Data Sets> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-2><vspace|0.5fn>
+  The app provides comfort and reassurance for these journeys, helping users
+  navigate safely and confidently. \P<with|font-series|bold|Contribution>\Q
+  refers to the civic engagement in the community, which is inspired by the
+  app's features. Users can contribute by \P<with|font-series|bold|raising
+  the bell>\Q to report safety incidents and express feelings of unease.
+  Their impact is shown through in-app gratitude when a
+  \P<with|font-series|bold|bell>\Q has benefited another person, with badges
+  being earnt for long-term, valuable contributions.
 
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|3<space|2spc>Our
-    Challenges> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-3><vspace|0.5fn>
-
-    <with|par-left|1tab|3.1<space|2spc>Enhancing Public Safety: The Bell of
-    Safety <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-4>>
-
-    <with|par-left|1tab|3.2<space|2spc>Inspiring Civic Engagement: Corals
-    Contributing to Community <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-5>>
-
-    <with|par-left|1tab|3.3<space|2spc>Innovating Wellbeing Measurement:
-    Insights from Safety Data <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-6>>
-
-    <vspace*|1fn><with|font-series|bold|math-font-series|bold|4<space|2spc>AI
-    Integration and Data Extrapolation> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-7><vspace|0.5fn>
-  </table-of-contents>
-
-  <strong|Coral Bells> is a mobile app designed to offer a comforting and
-  reassuring experience for users\Vour <strong|\Pcorals\Q>\Vas they plan
-  their journeys and contribute to their communities. In this context, a
-  <strong|\Pjourney\Q> refers to any trip or excursion, whether it's a female
-  student walking home at night, a mother sending her child off on a trip, or
-  an adventurer exploring a wildlife area. The app provides comfort and
-  reassurance for these journeys, helping users navigate safely and
-  confidently. <strong|\PEngagement\Q> refers to the active contribution in
-  the community, inspired by the app's features, where users can contribute
-  by \Praising the bell\Q to report safety incidents, express feelings of
-  unease, or provide feedback.
-
-  The name <strong|\PCoral Bells\Q> is inspired by the flower of the same
-  name, known for its delicate, bell-shaped blooms. This flower symbolically
-  represents our users as <strong|\Pcorals\Q>\Vresilient and adaptable
-  members of their community. The <strong|\Pbells\Q> signify safety alerts
-  and incident reports, emerging from the flower's bell-like structure. Just
-  as these flowers signal their presence, the <strong|\Pbells\Q> provide
-  insights about safety incidents, such as car crashes, crocodile sightings,
-  bush fires, hazards, and crime, as well as feelings of unease.
+  The name \P<with|font-series|bold|Coral Bells>\Q is inspired by the flower
+  of the same name, known for its delicate, bell-shaped blooms. This flower
+  symbolically represents our users as \P<with|font-series|bold|corals>\Q\Vresilient
+  and adaptable members of their community. The
+  \P<with|font-series|bold|bells>\Q signify safety alerts and symbolise how
+  our users' contributions help keep each other safe. We aim to see our
+  corals blossom\Vmeaning we want our users to feel empowered to navigate
+  with confidence and explore places they might have previously avoided.
+  This, in turn, can also indirectly support local tourism and regional
+  development.
 
   By integrating both crowdsourced data from users and existing open
-  government information, <strong|Coral Bells> offers a holistic view of how
-  safe our locations are, and how safe our community
-  <with|font-shape|italic|feels>. This allows us to provide accurate,
-  personalised guidance in people's journeys, and inspire civic engagement.
-  Our goal is to help users feel secure and reassured, enabling them to make
-  informed decisions with confidence rather than anxiety.\ 
+  government information, <with|font-series|bold|Coral Bells> offers a
+  holistic view of how safe our locations are and how secure our community
+  feels. This allows us to provide accurate, personalised guidance for users'
+  journeys and inspire civic engagement. Our goal is to help users feel
+  secure and reassured, enabling them to make informed decisions with
+  confidence rather than anxiety.
 
-  Additionally, we offer a web-based dashboard that extrapolates the data, to
-  provide policy-makers, governments, and organisations with comprehensive
-  information and key reports, facilitating informed, strategic decisions.
+  Additionally, we provide a web-based dashboard that consolidates and
+  analyses data from user reports and open government sources. This platform
+  not only offers comprehensive insights and key reports for policymakers,
+  governments, and organizations but also enables holistic wellbeing analysis
+  by revealing trends and safety concerns. Powered by AI, the dashboard
+  generates key briefs and executive reports, facilitating informed,
+  strategic decisions and the discovery of new insights to enhance community
+  planning and safety.
+
+  Ultimately, Coral Bells goes beyond mere safety guidance, by fostering a
+  deeply connected and empathetic community. Our app empowers users to
+  navigate confidently while contributing vital data on under-reported safety
+  concerns, amplifying the voices of under-represented groups. This approach
+  not only enhances personal security but also provides valuable insights
+  into community wellbeing, revealing the intricate link between safety and
+  overall quality of life. By nurturing a sense of security, we indirectly
+  support local tourism and regional development, showing that safety is a
+  cornerstone of a thriving, informed society where every journey is guided
+  by care and understanding.
 
   <hrule>
 
   <section|Our Team>
 
-  <\wide-tabular>
-    <tformat|<cwith|1|1|1|-1|cell-halign|c>|<table|<row|<\cell>
-      Luz de Luna
-    </cell>|<\cell>
-      Emilian Roman
-    </cell>|<\cell>
-      Shann Roberts
-    </cell>|<\cell>
-      Tom Jia
-    </cell>>>>
-  </wide-tabular>
+  <\itemize>
+    <item>Luz de Luna Gomez Gonzalez
+
+    <item>Emilian Roman
+
+    <item>Shann Roberts
+
+    <item>Tom Jia
+  </itemize>
 
   <section|Our Data Sets>
 
-  TBD
+  <itemize|<item>TBD>
 
-  <page-break*><section|Our Challenges>
+  <section|Our Challenges>
 
-  <\itemize>
-    <item>Crocodile Watch: Enhancing Public Safety
-
-    <\em>
-      <item>AI applications using Open Road Crash data
-    </em>
-
-    <item><em|Civic participation for a more resilient, cohesive democracy.>
-
-    <item><with|font-shape|italic|Innovating Wellbeing Measurement \U
-    Uncovering New Connections>
-  </itemize>
-
-  <subsection|Enhancing Public Safety: The Bell of Safety>
+  <subsection|<strong|Enhancing Public Safety: The Bell of Safety>>
 
   <strong|Challenge:> Improve public safety and reduce risks from various
   safety incidents.
 
-  <with|font-series|bold|GovHack Challenges:> <em|Crocodile Watch: Enhancing
-  Public Safety; AI applications using Open Road Crash data>
+  <strong|GovHack Challenges:> <with|font-shape|italic|Crocodile Watch:
+  Enhancing Public Safety; AI applications using Open Road Crash data>
 
   <strong|Solution:>
 
@@ -121,32 +101,31 @@
     <\itemize>
       <item><strong|\PRaise the Bell\Q:> Users can report various safety
       incidents such as crocodile sightings, car crashes, bush fires, and
-      hazards, or simply express feelings of unease by \Praising the bell.\Q
-      This crowdsourced data, combined with existing open government data,
-      dictates the safety guidance we offer our users, and report valuable
-      insights and recommendations to governments.
+      hazards, or simply express feelings of unease. This crowdsourced data,
+      combined with existing open government data, informs the safety
+      guidance we offer users and provides valuable insights and
+      recommendations to governments.
 
       <item><strong|Safe Places Map:> To avoid inadvertently guiding users
       through potentially dangerous areas, the map exclusively highlights
-      ``safe places'' such as hospitals, police stations, and other emergency
-      facilities. This precautionary approach helps prevent users from being
-      led onto paths that may seem safe but could turn out to be hazardous,
-      ensuring they are only directed to known safe locations.
+      \Psafe places\Q such as hospitals, police stations, and other emergency
+      facilities. This precautionary approach ensures users are only directed
+      to known safe locations, minimising unnecessary anxiety.
 
       <item><strong|Natural Language Text:> Information and alerts are
       delivered primarily through natural language text. This avoids
       suggesting alternative paths or highlighting hazards, ensuring users
-      receive reassuring and useful guidance without unnecessary anxiety.
+      receive reassuring and useful guidance without inducing undue worry.
     </itemize>
   </itemize>
 
   <subsection|Inspiring Civic Engagement: Corals Contributing to Community>
 
   <strong|Challenge:> Increase civic participation and enhance community
-  connection.
+  connection and resilience.
 
-  <with|font-series|bold|GovHack Challenges:> <em|Civic participation for a
-  more resilient, cohesive democracy.>
+  <strong|GovHack Challenges:> Civic participation for a more resilient,
+  cohesive democracy.
 
   <strong|Solution:>
 
@@ -155,29 +134,31 @@
 
     <\itemize>
       <item><strong|Community Involvement:> Users can actively participate by
-      \Praising the bell\Q to share safety incident reports or feeling of
-      unease in a particular area. We want to give everyone a voice,
-      including under-represented people who often deal sources of discomfort
-      that are invisible to us.
+      \Praising the bell\Q to share safety incident reports or feelings of
+      unease in a particular area. This feature empowers all users, including
+      those from under-represented groups, ensuring their concerns and
+      observations are heard and considered.
 
-      <item><strong|Transparent, Impactful Engagement:> Inspire users of
-      diverse and underrepresented backgroundds to engage in contributing to
-      the safety of other people. We want to empower our users' input to not
-      only help others, but to ultimately drive strategic and societal
-      change.
+      <item><strong|Transparent, Impactful Engagement:> By engaging users
+      from diverse backgrounds, we aim to inspire contributions that drive
+      strategic and societal change. Empowering users helps to address
+      invisible sources of discomfort and fosters a greater sense of
+      community responsibility.
     </itemize>
 
-    <item><strong|Building Trust and Understanding (Coral Feedback):>
+    <item><strong|Building Communication and Understanding (Coral Feedback):>
 
     <\itemize>
-      <item><strong|Government Updates:> We want to offer clear and
-      transparent information from local government services, and also
-      facilitate two-way communication for users to share their experiences
-      and opinions, thus building trust and understanding.
+      <item><strong|Government Communication:> We provide insightful,
+      relevant and up to date reports to local government services, and
+      facilitate a platform for users to share their experiences, fostering a
+      transparent, more engaged communication with policy makers.
 
-      <item><strong|Community :> Develop interactive features that help users
-      explore and engage with civic infrastructure, enhancing their
-      connection and sense of responsibility within the community.
+      <item><strong|Community Connection:> We incorporate gratitude into our
+      application\Vwhen someone's \Praise of the bell\Q benefits another
+      person, the former will receive a notification in the app, thanking
+      them for their contribution and letting them know how their input
+      helped.
     </itemize>
   </itemize>
 
@@ -186,9 +167,8 @@
   <strong|Challenge:> Enhance the measurement and understanding of societal
   wellbeing using diverse data sources.
 
-  <with|font-series|bold|GovHack Challenges:>
-  <with|font-shape|italic|Innovating Wellbeing Measurement \U Uncovering New
-  Connections>
+  <strong|GovHack Challenges:> Innovating Wellbeing Measurement \U Uncovering
+  New Connections
 
   <strong|Solution:>
 
@@ -196,67 +176,103 @@
     <item><strong|Inferring Wellbeing from Safety Reports (Coral Insights):>
 
     <\itemize>
-      <item><strong|Safety Data as a Wellbeing Indicator:> Although the app
-      focuses primarily on safety and journey planning, it provides valuable
-      indirect insights into community wellbeing through its safety data. By
-      analysing patterns in safety incidents and reported feelings of unease,
-      we can gauge aspects of community wellbeing. For instance, frequent
-      safety incidents or widespread feelings of unease in an area may
-      highlight underlying wellbeing concerns, while fewer incidents and a
-      sense of security suggest a higher level of community wellbeing.
+      <item><strong|Safety Data as a Wellbeing Indicator:> The app provides
+      valuable indirect insights into community wellbeing through its safety
+      data. By analysing patterns in safety incidents and reported feelings
+      of unease, we gauge aspects of community wellbeing. Frequent safety
+      incidents or widespread unease may indicate underlying concerns, while
+      fewer incidents and a sense of security suggest higher community
+      wellbeing.
 
       <item><strong|Data Integration:> Combining user-generated safety
-      reports (bells) with existing open government datasets allows us to
-      identify correlations and trends that reflect broader wellbeing
-      factors. This integrated approach enriches our understanding of how
-      safety and wellbeing intersect, providing a nuanced view of community
-      health.
+      reports with existing open government datasets helps identify
+      correlations and trends reflecting broader wellbeing factors. This
+      integrated approach enriches our understanding of how safety and
+      wellbeing intersect.
 
-      <item><strong|Enhanced Dashboard:> We propose an enhanced wellbeing
-      dashboard that visualises how safety incidents and feelings of unease
-      contribute to overall community wellbeing. This dashboard will offer a
-      holistic perspective on how safety concerns impact the quality of life
-      in different areas, supporting a deeper understanding of community
-      wellbeing.
+      <item><strong|Enhanced Dashboard:> An enhanced wellbeing dashboard will
+      visualise how safety incidents and feelings of unease contribute to
+      overall community wellbeing, providing a holistic perspective on how
+      safety concerns impact quality of life.
     </itemize>
 
     <item><strong|New Indicators and Proposals (Coral Metrics):>
 
-    <itemize|<item><strong|Innovative Indicators:> By leveraging the insights
-    gained from safety reports and user feedback, we can propose new
+    <itemize|<item><strong|Innovative Indicators:> As an iidea, we can
+    leverage insights from safety reports and user feedback to propose new
     wellbeing indicators. These indicators will reflect the connections
-    between safety incidents and other social factors, providing a more
+    between safety incidents and other social factors, offering a more
     comprehensive measure of community health and happiness.>
   </itemize>
 
-  <section|AI Integration and Data Extrapolation>
+  <subsection|Indirect Benefits and Positive Consequences: Boosting Tourism
+  in the Northern Territory>
 
-  <strong|AI Utilisation:>
+  <strong|Challenge:> Support local tourism and regional development through
+  enhanced safety and confidence.
+
+  <with|font-series|bold|GovHack Challenges:>
+  <with|font-shape|italic|Boosting Tourism in the Northern Territory>
+
+  <strong|Solution:>
 
   <\itemize>
-    <item><strong|End-User Interaction:> AI is employed to provide a natural,
-    conversational interface for users, enhancing their experience as they
-    interact with the app. This includes using AI for natural language
-    processing to deliver user-friendly, reassuring information, and
-    leveraging voice-driven commands for convenience and accessibility.
+    <item><strong|Empowering Safe Exploration (Coral Routes):>
 
-    <item><strong|Data Analysis and Reporting:> AI is also used to distill
-    safety and community data into concise, actionable insights. This
-    includes generating executive briefs and recommendations for
-    policy-makers and organisations. AI helps in analysing trends and
-    extrapolating data to provide comprehensive and/or key reports.
+    <\itemize>
+      <item><strong|Encouraging Confidence:> By providing users with reliable
+      safety information and personalised guidance, we help them feel more
+      secure and confident in exploring new areas, including the Northern
+      Territory. This confidence can indirectly encourage more frequent and
+      diverse travel to these regions.
+
+      <item><strong|Highlighting Safe Attractions:> While Coral Bells
+      primarily focuses on safety, by ensuring that users feel secure, we
+      contribute to a more inviting atmosphere for tourism. This can lead to
+      increased visitation and support local economies without directly
+      targeting tourism.
+    </itemize>
+
+    <item><strong|Supporting Regional Development (Coral Insights):>
+
+    <itemize|<item><strong|Data-Driven Insights:> By analysing data trends
+    from user interactions and safety reports, we provide valuable insights
+    that can support regional development strategies. Understanding areas of
+    high safety concerns or low confidence can help in addressing specific
+    needs and improving infrastructure to better support tourism and local
+    growth.>
   </itemize>
 
-  <strong|Goals:>
+  <strong|4. AI Integration and Data Extrapolation>
 
-  <itemize|<item><strong|Data Extrapolation and Reporting:> <strong|Coral
-  Bells> aims to extrapolate and analyse data from both user-generated
-  reports and open government sources. The goal is to provide detailed
-  insights and key reports that support policy-makers, governments, and
-  organisations in making informed, strategic decisions which improve the
-  safety and wellbeing of our communities. By leveraging both real-time data
-  and historical trends, the project contributes to more effective safety
-  measures, civic engagement strategies, and wellbeing initiatives.>
+  <\itemize>
+    <item><strong|AI Utilisation:>
+
+    <\itemize>
+      <item><strong|End-User Interaction:> AI is employed to provide a
+      natural, conversational interface for users, enhancing their experience
+      as they interact with the app. This includes using AI for natural
+      language processing to deliver user-friendly, reassuring information
+      and leveraging voice-driven commands for convenience and accessibility.
+
+      <item><strong|Data Analysis and Reporting:> AI is also used to distill
+      safety and community data into concise, actionable insights. This
+      includes generating executive briefs and recommendations for
+      policy-makers and organisations. AI helps in analysing trends and
+      extrapolating data to provide comprehensive and/or key reports.
+    </itemize>
+
+    <item><strong|Goals:>
+
+    <itemize|<item><strong|Data Extrapolation and Reporting:> Coral Bells
+    aims to extrapolate and analyse data from both user-generated reports and
+    open government sources. The goal is to provide detailed insights and key
+    reports that support policy-makers, governments, and organisations in
+    making informed, strategic decisions which improve the safety and
+    wellbeing of our communities. By leveraging both real-time data and
+    historical trends, the project contributes to more effective safety
+    measures, civic engagement strategies, and wellbeing initiatives.>
+  </itemize>
 </body>
 
 <\initial>
@@ -269,12 +285,12 @@
 <\references>
   <\collection>
     <associate|auto-1|<tuple|1|1|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
-    <associate|auto-2|<tuple|2|1|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
+    <associate|auto-2|<tuple|2|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
     <associate|auto-3|<tuple|3|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
     <associate|auto-4|<tuple|3.1|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
     <associate|auto-5|<tuple|3.2|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
     <associate|auto-6|<tuple|3.3|3|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
-    <associate|auto-7|<tuple|4|3|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
+    <associate|auto-7|<tuple|3.4|3|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
   </collection>
 </references>
 
@@ -293,8 +309,8 @@
       Challenges> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-3><vspace|0.5fn>
 
-      <with|par-left|<quote|1tab>|3.1<space|2spc>Enhancing Public Safety: The
-      Bell of Safety <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <with|par-left|<quote|1tab>|3.1<space|2spc><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Enhancing
+      Public Safety: The Bell of Safety> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-4>>
 
       <with|par-left|<quote|1tab>|3.2<space|2spc>Inspiring Civic Engagement:
@@ -306,10 +322,10 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-6>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|4<space|2spc>AI
-      Integration and Data Extrapolation>
+      <with|par-left|<quote|1tab>|3.4<space|2spc>Indirect Benefits and
+      Positive Consequences: Boosting Tourism in the Northern Territory
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-7><vspace|0.5fn>
+      <no-break><pageref|auto-7>>
     </associate>
   </collection>
 </auxiliary>
