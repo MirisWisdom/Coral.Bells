@@ -102,12 +102,12 @@
         </div>
         <div class="card card-body"
              style="border-radius: 0px 0px 25px 25px">
-             <div class="text-primary">
+            <div class="text-primary">
                 <p class="mb-0">
                     <i class="fa-solid fa-bell"></i>
                     Bells have been recently raised in this area!
                 </p>
-             </div>
+            </div>
         </div>
         <div class="card card-body bg-light mt-4">
             <div class="row">
@@ -128,13 +128,73 @@
             </div>
         </div>
     </div>
-    <div class="torn-paper-90 mt-5" style="height: 32px"></div>
-    <div class="p-4" style="background: white">
-        <button class="btn btn-info text-uppercase text-light p-3 w-100">
-            Add New Schedule
-        </button>
-        <button class="btn btn-info text-uppercase text-light p-3 w-100 mt-2">
+    <div class="torn-paper-90 mt-5"
+         style="height: 32px"></div>
+    <div class="p-4"
+         style="background: white">
+        <a href="{{ route('journey') }}"
+           class="btn btn-info text-uppercase text-light p-3 w-100"
+           wire:navigate>
+            Add New Journey
+        </a>
+        <button class="btn btn-info text-uppercase text-light p-3 w-100 mt-2"
+                data-bs-toggle="modal"
+                data-bs-target="#profileModal">
             Add New Profile
         </button>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade"
+         id="profileModal"
+         tabindex="-1"
+         aria-labelledby="profileModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header bg-info text-light">
+                    <h5 class="modal-title text-center"
+                        id="profileModalLabel">
+                        New Profile
+                    </h5>
+                </div>
+                <div class="modal-body">
+                    <label class="w-100">
+                        Name:
+                        <input type="text"
+                               class="form-control"
+                               placeholder="Eve, My Son, etc.">
+                    </label>
+                    <label class="w-100 mt-2">
+                        Gender:
+                        <input type="text"
+                               class="form-control"
+                               placeholder="Female, Non-Binary, Prefer not to say, etc.">
+                    </label>
+                    <label class="w-100 mt-2">
+                        Age Range:
+                        <input type="text"
+                               class="form-control"
+                               placeholder="e.g. 18 - 24">
+                    </label>
+                    <label class="w-100 mt-2">
+                        Additional Details:
+                        <input type="text"
+                               class="form-control"
+                               placeholder="Preferences, disabilities, priorities, etc.">
+                    </label>
+                </div>
+                <div class="modal-footer">
+                    <button type="button"
+                            class="btn btn-primary text-light w-100 p-2 text-uppercase"
+                            data-bs-dismiss="modal">
+                        Save
+                    </button>
+                    <button type="button"
+                            class="btn btn-secondary w-100 mt-1 p-2 text-uppercase"
+                            data-bs-dismiss="modal">Cancel</button>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
