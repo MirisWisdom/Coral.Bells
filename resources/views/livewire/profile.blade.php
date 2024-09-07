@@ -156,7 +156,7 @@
             </div>
         </div>
     </div>
-    <button class="btn btn-primary btn-lg text-uppercase text-light w-100 mt-4 py-3">
+    <button class="btn btn-primary btn-lg text-uppercase text-light w-100 my-4 py-3">
         <div class="h3 mb-0">
             Save Information
         </div>
