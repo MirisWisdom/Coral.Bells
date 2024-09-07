@@ -27,12 +27,14 @@
                         Plan My Journey
                     </div>
                 </button>
-                <button class="btn w-100 btn-light py-3 mt-2">
+                <a class="btn w-100 btn-light py-3 mt-2"
+                   href="{{ route('report') }}"
+                   wire:navigate>
                     <div class="h4 mb-0 text-uppercase text-primary">
                         <i class="fa-regular fa-bell"></i>
                         Raise A New Bell
                     </div>
-                </button>
+                </a>
             </div>
         </div>
         <div class="col-md">

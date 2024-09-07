@@ -8,7 +8,7 @@ Route::get('/', function () {
 
 Route::get('/report', function () {
     return view('report');
-});
+})->name('report');
 
 Route::middleware([
     'auth:sanctum',

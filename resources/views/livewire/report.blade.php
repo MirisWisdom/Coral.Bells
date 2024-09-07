@@ -1,4 +1,4 @@
-<div>
+<div class="container-fluid">
     <div class="card card-body mt-5">
         <div class="h6 text-center text-info">
             Location:
@@ -20,7 +20,6 @@
             Describe the situation:
         </div>
         <textarea class="form-control text-dark border-0"></textarea>
-
         <div class="row g-1">
             <div class="col-auto">
                 <button class="btn">
@@ -69,7 +68,10 @@
             <div class="col-9">
                 <p class="py-4">
                     <span class="text-dark">
-                        Your bells have so far helped 24 fellow corals :)
+                        Your bells have so far helped
+                        <span class="text-primary">
+                            24 fellow corals
+                        </span> :)
                     </span>
                 </p>
             </div>
