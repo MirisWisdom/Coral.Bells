@@ -7,63 +7,54 @@
     Guiding and Reassuring Safety, Holistically and Empathetically
   </doc-subtitle>|<doc-misc|Our GovHack 2024 Entry>>
 
-  <with|font-series|bold|Coral Bells> is a mobile app designed to offer a
-  comforting and reassuring experience for users\Vour
-  \P<with|font-series|bold|corals>\Q\Vas they plan their journeys and
-  contribute to their communities. In this context, a
-  \P<with|font-series|bold|journey>\Q refers to any trip or excursion,
-  whether it's a female student walking home at night, a parent sending their
-  child off on a trip, an individual with disabilities navigating
-  inaccessible areas, or anyone who simply wants to feel secure when
-  travelling onto unknown or unsettling territories.
+  <with|font-series|bold|Coral Bells> is a welcoming mobile app which ensures
+  that everyone's journey is as safe and comfortable as possible. Whether
+  it's a student heading home late, a parent sending their child off, someone
+  with accessibility needs exploring new areas, or anyone feeling uneasy
+  about traveling, Coral Bells provides the comfort and confidence they need,
+  using open government data in combination with crowd-sourced reports
+  (\P<with|font-series|bold|bells>\Q) to deliver tailored, personal
+  recommendations to the user's specific needs and circumstances.
 
-  The app provides comfort and reassurance for these journeys, helping users
-  navigate safely and confidently. \P<with|font-series|bold|Contribution>\Q
-  refers to the civic engagement in the community, which is inspired by the
-  app's features. Users can contribute by \P<with|font-series|bold|raising
-  the bell>\Q to report safety incidents and express feelings of unease.
-  Their impact is shown through in-app gratitude when a
-  \P<with|font-series|bold|bell>\Q has benefited another person, with badges
-  being earnt for long-term, valuable contributions.
+  Inspired by the delicate, bell-shaped blooms of the \PCoral Bells\Q flower,
+  we see our users as resilient members of their communities. The
+  \P<with|font-series|bold|bells>\Q represent safety alerts and how each
+  user's input helps create a safer environment. The goal is to see these
+  corals blossom\V empowering them to explore confidently and visit places
+  they might have previously avoided. This not only fosters personal security
+  but can also indirectly support local tourism and regional development.
 
-  The name \P<with|font-series|bold|Coral Bells>\Q is inspired by the flower
-  of the same name, known for its delicate, bell-shaped blooms. This flower
-  symbolically represents our users as \P<with|font-series|bold|corals>\Q\Vresilient
-  and adaptable members of their community. The
-  \P<with|font-series|bold|bells>\Q signify safety alerts and symbolise how
-  our users' contributions help keep each other safe. We aim to see our
-  corals blossom\Vmeaning we want our users to feel empowered to navigate
-  with confidence and explore places they might have previously avoided.
-  This, in turn, can also indirectly support local tourism and regional
-  development.
+  The app allows people to describe their upcoming journey using natural
+  language. Our app will then rely on the journey description, the
+  demographics and preferences of the user, and our diverse open government
+  and crowd-sourced data, to offer a personalised, friendly guide to safely
+  getting to their destination. The app encourages community contribution
+  through its \P<with|font-series|bold|raise the bell>\Q feature, allowing
+  users to report safety incidents or express concerns. These contributions
+  are recognised with in-app gratitude and badges, highlighting the
+  importance of their efforts in bringing comfort and safety to their
+  community.
 
-  By integrating both crowdsourced data from users and existing open
-  government information, <with|font-series|bold|Coral Bells> offers a
-  holistic view of how safe our locations are and how secure our community
-  feels. This allows us to provide accurate, personalised guidance for users'
-  journeys and inspire civic engagement. Our goal is to help users feel
-  secure and reassured, enabling them to make informed decisions with
-  confidence rather than anxiety.
+  By encouraging and integrating crowdsourced data with open government
+  information, Coral Bells provides a comprehensive view of safety across
+  various locations. This enables the app to offer personalised, friendly
+  guidance and promote civic engagement, helping users make informed
+  decisions with greater ease.
 
-  Additionally, we provide a web-based dashboard that consolidates and
-  analyses data from user reports and open government sources. This platform
-  not only offers comprehensive insights and key reports for policymakers,
-  governments, and organizations but also enables holistic wellbeing analysis
-  by revealing trends and safety concerns. Powered by AI, the dashboard
-  generates key briefs and executive reports, facilitating informed,
-  strategic decisions and the discovery of new insights to enhance community
-  planning and safety.
+  Additionally, Coral Bells features a web-based dashboard that consolidates
+  and analyses user reports alongside diverse government data. This offers
+  valuable, holistic insights and key reports for policymakers and
+  organisations, powered by AI to generate executive briefs and uncover new
+  trends. It encourages wellbeing analysis \V revealing connections between
+  safety and overall community.
 
-  Ultimately, Coral Bells goes beyond mere safety guidance, by fostering a
-  deeply connected and empathetic community. Our app empowers users to
-  navigate confidently while contributing vital data on under-reported safety
-  concerns, amplifying the voices of under-represented groups. This approach
-  not only enhances personal security but also provides valuable insights
-  into community wellbeing, revealing the intricate link between safety and
-  overall quality of life. By nurturing a sense of security, we indirectly
-  support local tourism and regional development, showing that safety is a
-  cornerstone of a thriving, informed society where every journey is guided
-  by care and understanding.
+  Ultimately, Coral Bells goes beyond simple safety guidance, by fostering a
+  connected and empathetic community, reflected in our app's design,
+  features, and mission. It amplifies the voices of under-represented groups,
+  enhances personal security, and provides critical insights into community
+  wellbeing. This approach demonstrates that safety is a cornerstone of a
+  thriving, informed society, where every journey is guided by care and
+  understanding.
 
   <hrule>
 
@@ -285,7 +276,7 @@
 <\references>
   <\collection>
     <associate|auto-1|<tuple|1|1|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
-    <associate|auto-2|<tuple|2|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
+    <associate|auto-2|<tuple|2|1|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
     <associate|auto-3|<tuple|3|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
     <associate|auto-4|<tuple|3.1|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
     <associate|auto-5|<tuple|3.2|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
