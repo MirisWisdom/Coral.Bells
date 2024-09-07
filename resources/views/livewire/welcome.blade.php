@@ -30,12 +30,14 @@
         </div>
         <div class="col-md">
             <div class="mt-5">
-                <button class="btn w-100 btn-light py-3 mb-2">
+                <a class="btn w-100 btn-light py-3 mb-2"
+                   href="{{ route('journey') }}"
+                   wire:navigate>
                     <div class="h4 mb-0 text-uppercase text-info">
                         <i class="fa-regular fa-calendar"></i>
                         Plan a Journey
                     </div>
-                </button>
+                </a>
                 <a class="btn w-100 btn-light py-3 mt-2 mb-2"
                    href="{{ route('report') }}"
                    wire:navigate>
