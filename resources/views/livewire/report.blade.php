@@ -24,7 +24,8 @@
             <div class="row g-1">
                 <div class="col">
                     <input type="text"
-                           class="form-control border-0">
+                           class="form-control border-0"
+                           value="Somewhere in Northern Territory">
                 </div>
                 <div class="col-auto">
                     <button class="btn btn-secondary text-uppercase px-3 w-100">
@@ -37,7 +38,8 @@
             <div class="h6 text-left text-dark">
                 Describe the situation:
             </div>
-            <textarea class="form-control text-dark border-0"></textarea>
+            <textarea class="form-control text-dark border-0"
+                      readonly>A crocodile is looking at me. Seems very docile, but probably might do something spooky.</textarea>
             <div class="row g-1">
                 <div class="col-auto">
                     <button class="btn">
@@ -54,11 +56,47 @@
                 </div>
             </div>
         </div>
-        <button class="btn btn-primary btn-lg text-uppercase text-light w-100 mt-4 py-3">
+        <button class="btn btn-primary btn-lg text-uppercase text-light w-100 mt-4 py-3"
+                data-bs-toggle="modal"
+                data-bs-target="#bellModal">
             <div class="h3 mb-0">
                 Raise the Bell
             </div>
         </button>
+        <!-- Modal -->
+        <div class="modal fade"
+             id="bellModal"
+             tabindex="-1"
+             aria-labelledby="bellModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                <div class="modal-content">
+                    <div class="modal-header bg-info text-light">
+                        <h5 class="modal-title text-center"
+                            id="bellModalLabel">
+                            Our corals' gratitude to you
+                        </h5>
+                    </div>
+                    <div class="modal-body">
+                        Thank you for raising the bell for other corals. Your contribution is invaluable to the safety
+                        and wellbeing of the community.
+                        <br><br>
+                        When somebody plans their journey around this area, your bell will guide them towards a safer
+                        path. We will let you know when this happens, to remind you that your voice has impact.
+                        <br><br>
+                        With contributions such as yours, we can bring insights to our policy-makers regarding our
+                        community's wellbeing and needs.
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button"
+                                class="btn btn-primary text-light w-100 p-2 text-uppercase"
+                                data-bs-dismiss="modal">
+                            No problem!
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="px-4">
             <div class="row">
                 <div class="col-3 col-md-1">
