@@ -14,9 +14,9 @@
         <div class="col-auto">
             <a href="{{ route('profile') }}"
                class="btn text-light"
-               style="font-size: 24pt"
+               style="font-size: 36pt"
                wire:navigate>
-                ^_^
+               <i class="fa-solid fa-medal"></i>
             </a>
         </div>
     </div>
