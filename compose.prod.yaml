@@ -6,6 +6,7 @@ services:
       SERVER_NAME: ${SERVER_NAME:-coral.miris.design}, :80
 
       APP_NAME: ${APP_NAME:-"Coral Bells"}
+      APP_TEAM: ${APP_TEAM:-"Eastern Corals"}
       APP_ENV: ${APP_ENV:-production}
       APP_KEY: ${APP_KEY} # base64:$(head -c32 /dev/urandom | base64)
       APP_DEBUG: ${APP_DEBUG:-false}
