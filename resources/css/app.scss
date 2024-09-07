@@ -33,12 +33,37 @@ body {
 }
 
 .overlay {
-    background-image: url('../svg/logo.svg');
+    background-image: url('../svg/overlay.svg');
     background-size: cover;
-    position: absolute;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    z-index: -999;
 }
 
 .btn-light {
     border-radius: 50px;
     box-shadow: 0px 2px 3px rgba(18, 46, 64, 0.20);
+}
+
+.btn-primary {
+    border-radius: 50px;
+}
+
+.btn-secondary {
+    border-radius: 50px;
+    color: #122E40;
+}
+
+.card {
+    border-radius: 25px;
+}
+
+.h4, .h5, .h6 {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    // font-weight: 600 !important;
+    font-style: normal;
 }
