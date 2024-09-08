@@ -32,6 +32,7 @@
 - [Our Data Story](#our-data-story)
   - [GovHack Open Data](#govhack-open-data)
   - [Externally Sourced Data](#externally-sourced-data)
+- [Our System \& Architecture](#our-system--architecture)
 
 # Our Project
 
@@ -267,3 +268,19 @@ We enhance user safety and comfort by integrating open government data with crow
     - [Footpath Closures](https://www.data.act.gov.au/Transport/Temporary-Traffic-Management-TTM-Planned-Footpath-/6ivw-zizr/about_data)
 
   - **Usage:** Provides details on road and footpath closures. Bells raised about disruptions help users find alternate routes and avoid construction or maintenance areas, ensuring a smoother travel experience.
+
+# Our System & Architecture
+
+> *Please note that due to the competition's time limits and this system's complexity, we can only demonstrate a proof of concept/prototype -- the code in the repository reflects this. However, we are confident that our proposed architecture is a sound solution.*
+
+The user-facing mobile app and government-facing dashboards are both powered by a hybrid back-end.
+
+![diagram](https://github.com/MirisWisdom/Collar.Bells/blob/master/doc/architecture-data.svg)
+
+1. The "Core", in effect, holistically unifies everything and drives it all, to provide a seamless experience to our end-users.
+2. We use LLMs to take end-user input in natural text/voice, synthesise relevant journey guides in a friendly, empathetic way, and provide executive briefs, reports and suggestions to governments/policy-makers.
+   1. Our core comunicates with the LLMs by supplying end-user journey input, their demographic and (anonymised) profile, and reports ("bells") we've gathered from locations relevant to their journey.
+3. We use relational databases for storing open government data sets, the anonymised profiles & demographics of our users, and the incidents they've reported when they "raised the bell".
+   1. This allows us to achieve our endeavour of holistically connecting everything together to provide personalised, relevant and empathetic guides, along with insightful reports for governments/policymakers.
+   2. Storing the crowd-sourced data in a consistent, normalised way allows for effective building and aggregation of datasets.
+4. Our mobile app and web dashboard connect to the back-end using APIs that permit the submission of end-user data and retrieval of relevant information from the back-end.
