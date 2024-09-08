@@ -7,54 +7,92 @@
     Guiding and Reassuring Safety, Holistically and Empathetically
   </doc-subtitle>|<doc-misc|Our GovHack 2024 Entry>>
 
-  <with|font-series|bold|Coral Bells> is a welcoming mobile app which ensures
-  that everyone's journey is as safe and comfortable as possible. Whether
-  it's a student heading home late, a parent sending their child off, someone
-  with accessibility needs exploring new areas, or anyone feeling uneasy
-  about traveling, Coral Bells provides the comfort and confidence they need,
-  using open government data in combination with crowd-sourced reports
-  (\P<with|font-series|bold|bells>\Q) to deliver tailored, personal
-  recommendations to the user's specific needs and circumstances.
+  <strong|A Holistic Approach to Journey Safety and Comfort>
 
-  Inspired by the delicate, bell-shaped blooms of the \PCoral Bells\Q flower,
-  we see our users as resilient members of their communities. The
-  \P<with|font-series|bold|bells>\Q represent safety alerts and how each
-  user's input helps create a safer environment. The goal is to see these
-  corals blossom\V empowering them to explore confidently and visit places
-  they might have previously avoided. This not only fosters personal security
-  but can also indirectly support local tourism and regional development.
+  <strong|Coral Bells> is a welcoming mobile app designed to ensure that
+  every journey is as safe and comfortable as possible. Whether it's a
+  student heading home late, a parent sending their child off, someone with
+  accessibility needs exploring new areas, or anyone feeling uneasy about
+  travelling, Coral Bells offers tailored recommendations using a blend of
+  open government data and crowd-sourced reports, known as
+  \P<strong|bells>.\Q This combination provides users with personalised
+  guidance based on their specific needs and circumstances.
 
-  The app allows people to describe their upcoming journey using natural
-  language. Our app will then rely on the journey description, the
-  demographics and preferences of the user, and our diverse open government
-  and crowd-sourced data, to offer a personalised, friendly guide to safely
-  getting to their destination. The app encourages community contribution
-  through its \P<with|font-series|bold|raise the bell>\Q feature, allowing
-  users to report safety incidents or express concerns. These contributions
-  are recognised with in-app gratitude and badges, highlighting the
-  importance of their efforts in bringing comfort and safety to their
-  community.
+  <strong|Empowering Communities Through \PBells\Q>
 
-  By encouraging and integrating crowdsourced data with open government
-  information, Coral Bells provides a comprehensive view of safety across
-  various locations. This enables the app to offer personalised, friendly
-  guidance and promote civic engagement, helping users make informed
-  decisions with greater ease.
+  Inspired by the delicate yet resilient bell-shaped blooms of the \PCoral
+  Bells\Q flower, we view our users\V our
+  \P<with|font-series|bold|corals>\Q\V as integral members of their
+  communities. The \P<strong|bells>\Q represent safety alerts and underscore
+  how each user's input enhances safety and comfort for everyone. Our aim is
+  to see these corals blossom, empowering users to explore confidently and
+  visit areas they might have previously avoided. By promoting personal
+  security and safety, we support local tourism and regional development\V
+  encouraging safe exploration leads to confidence and the iniative to
+  travel, or even just feeling more relaxed in everyday journeys.
 
-  Additionally, Coral Bells features a web-based dashboard that consolidates
-  and analyses user reports alongside diverse government data. This offers
-  valuable, holistic insights and key reports for policymakers and
-  organisations, powered by AI to generate executive briefs and uncover new
-  trends. It encourages wellbeing analysis \V revealing connections between
-  safety and overall community.
+  <strong|Personalised Guidance and Community Contribution>
 
-  Ultimately, Coral Bells goes beyond simple safety guidance, by fostering a
-  connected and empathetic community, reflected in our app's design,
-  features, and mission. It amplifies the voices of under-represented groups,
-  enhances personal security, and provides critical insights into community
-  wellbeing. This approach demonstrates that safety is a cornerstone of a
-  thriving, informed society, where every journey is guided by care and
-  understanding.
+  The app allows users to describe their upcoming journey using natural
+  language. It then combines this information with their profile,
+  demographic, preferences, and a range of open government and crowd-sourced
+  data to offer a friendly, tailored guide to their destination. For example,
+  students walking alone at night will be recommended well-lit, populated
+  areas; parents ensuring a safe route for their children will receive
+  recommendations of nearby facilities; and people with disabilities will be
+  given routes with improved accessibility.\ 
+
+  The \P<strong|raise the bell>\Q feature encourages users to report safety
+  incidents or concerns, with contributions recognised through in-app
+  gratitude, badges, and notifications when a raised bell has benefited
+  somebody. We seek to reinforce the importance of community involvement, by
+  inspiring people to care for one another's safety and wellbeing.
+
+  <strong|Integrating Data for Comprehensive Safety Insights>
+
+  By blending crowdsourced data with open government information, Coral Bells
+  provides a comprehensive view of safety across various locations. This
+  integration allows for personalised guidance and promotes civic engagement.
+  For instance, the app uses traffic signal configurations and road crash
+  data to guide users away from high-risk areas, while crocodile sightings
+  statistics will help tourists be safe and confident when visiting regions
+  such as the Northern Territory. This approach helps users make informed
+  decisions and navigate their journeys with greater ease and security.
+
+  <strong|Advocating for Inclusive Data Access>
+
+  Our long-term vision extends beyond immediate safety and comfort. We aim to
+  inspire communities to support each other proactively and seamlessly. We
+  are committed to improving access to data related to vulnerable and
+  marginalised groups. Given this, we recommend that governments and
+  organisations provide such data so we can identify and address
+  previously-invisible concerns, creating meaningful impact within existing
+  constraints. This will help us address the unique needs of these groups and
+  enhance overall community wellbeing.
+
+  <strong|Holistic Insights Through Data Analysis>
+
+  Coral Bells features a web-based dashboard that consolidates user reports
+  and government data, offering valuable insights and key reports for
+  policymakers and organisations. Powered by AI, this dashboard generates
+  executive briefs and uncovers new trends, revealing connections between
+  safety and community wellbeing. Our analysis promotes a deeper
+  understanding of how safety concerns impact community health and vitality.
+
+  <strong|Empowering Communities and Improving Data>
+
+  Ultimately, Coral Bells goes beyond traditional safety guidance, by
+  thinking laterally and holistically\V we want to foster a connected and
+  empathetic community. Our app's design, features, and mission amplify the
+  voices of under-represented groups, enhance personal security, and provide
+  critical insights into community wellbeing. By prioritising safety and
+  understanding, Coral Bells demonstrates that a thriving, informed society
+  is built on care, mutual support, and collective commitment to improvement.
+
+  With safety and security being a pillar for everyone's wellbeing and
+  confidence, we believe that by putting safety first, we can discover and
+  solve a range of problems, including the boost in tourism and building of
+  new and up-to-date data sets that benefit our communities and governments.
 
   <hrule>
 
@@ -273,12 +311,12 @@
 
 <\references>
   <\collection>
-    <associate|auto-1|<tuple|?|1>>
-    <associate|auto-2|<tuple|<with|mode|<quote|math>|\<bullet\>>|1>>
-    <associate|auto-3|<tuple|<with|mode|<quote|math>|\<bullet\>>|1>>
+    <associate|auto-1|<tuple|?|2>>
+    <associate|auto-2|<tuple|<with|mode|<quote|math>|\<bullet\>>|2>>
+    <associate|auto-3|<tuple|<with|mode|<quote|math>|\<bullet\>>|2>>
     <associate|auto-4|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|2>>
-    <associate|auto-5|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|2>>
-    <associate|auto-6|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|3>>
+    <associate|auto-5|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|3>>
+    <associate|auto-6|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|4>>
     <associate|auto-7|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|4>>
   </collection>
 </references>
