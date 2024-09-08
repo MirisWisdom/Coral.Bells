@@ -1,6 +1,27 @@
-# Coral Bells
+<p align="center">
+    <img src="https://github.com/MirisWisdom/Collar.Bells/blob/master/logo.png"
+         width="192px">
+</p>
+<h1 align="center">
+    Collar Bells
+</h1>
+<p align="center">
+    <b>Guiding and Reassuring Safety, Holistically and Empathetically</b>
+</p>
+<hr>
+<p align="center">
+    <a href="https://coral.miris.design">
+        Access Our App
+    </a>
+    •
+    <a href="https://github.com/MirisWisdom/Collar.Bells/blob/master/doc/executive-summary.pdf">
+        Executive Summary
+    </a>
+</p>
+<img src="https://github.com/MirisWisdom/Collar.Bells/blob/master/preview.png">
+<hr>
 
-**A Holistic Approach to Journey Safety and Comfort**
+# Our Project
 
 **Coral Bells** is a welcoming mobile app designed to ensure that every journey is as safe and comfortable as possible. Whether it's a student heading home late, a parent sending their child off, someone with accessibility needs exploring new areas, or anyone feeling uneasy about travelling, Coral Bells offers tailored recommendations using a blend of open government data and crowd-sourced reports, known as “**bells**.” This combination provides users with personalised guidance based on their specific needs and circumstances.
 
@@ -131,3 +152,107 @@ With safety and security being a pillar for everyone's wellbeing and confidence,
 - **Goals:**
 
   - **Data Extrapolation and Reporting:** Coral Bells aims to extrapolate and analyse data from both user-generated reports and open government sources. The goal is to provide detailed insights and key reports that support policy-makers, governments, and organisations in making informed, strategic decisions which improve the safety and wellbeing of our communities. By leveraging both real-time data and historical trends, the project contributes to more effective safety measures, civic engagement strategies, and wellbeing initiatives.
+
+# Our Data Story
+
+We enhance user safety and comfort by integrating open government data with crowd-sourced safety reports, the latter known as “**bells**” within the metaphor we embrace. These bells are user-reported incidents or concerns. They help in tailoring safety information and recommendations for personalised journey planning amongst other people (“**corals**”) within the community.
+
+## GovHack Open Data
+
+**Near Real-Time Bushfire Boundaries**
+
+- **URL:** [Near Real-Time Bushfire Boundaries](https://digital.atlas.gov.au/apps/641aa0a80e254082bcf0d8cfeed3b56d/explore)
+
+- **Usage:** This dataset helps users avoid areas affected by active bushfires. When a user reports a concern or encounter with bushfire-related hazards ("raises a bell"), the app cross-references this with real-time bushfire boundary data to provide timely rerouting suggestions and safety advice.
+
+**Find Disaster Recovery Services and Support**
+
+- **URL:** [Disaster Recovery Services](https://nema.gov.au/data#/map)
+
+- **Usage:** This dataset identifies available disaster recovery services and support. In the event a user raises a bell regarding a disaster situation, the app directs them to nearby recovery services, helping them find necessary assistance quickly.
+
+**Weather and Flood Warnings Bureau of Meteorology**
+
+- **URLs:**
+
+  - [Weather Warnings](http://www.bom.gov.au/australia/warnings/index.shtml?ref=hdr)
+
+  - [Flood Networks](http://www.bom.gov.au/qld/flood/networks/owner_listing.shtml)
+
+  - [Weather Alerts JSON](http://reg.bom.gov.au/fwo/IDQ60901/IDQ60901.95591.json)
+
+- **Usage:** Provides trusted weather and flood warnings. If users raise a bell about weather concerns, the app integrates these reports with current weather data to offer guidance on avoiding severe conditions and adjusting travel plans accordingly.
+
+**Crocodile Survey Data 2021-2022**
+
+- **URL:** [Crocodile Survey Data](https://data.nt.gov.au/dataset/crocodile-monitoring-survey/resource/f26f0f2d-f769-4aee-8991-f4b5384a2a80)
+
+- **Usage:** Informs users of crocodile activity. User-reported bells about crocodile sightings or safety concerns are matched with survey data to advise on avoiding areas with high crocodile activity.
+
+**Traffic Signal Configuration plus Traffic & Signal Volume – Vic Gov**
+
+- **URLs:**
+
+  - [Traffic Volume](https://discover.data.vic.gov.au/dataset/traffic-volume)
+
+  - [Traffic Signal Volume Data](https://discover.data.vic.gov.au/dataset/traffic-signal-volume-data)
+
+  - [Traffic Signal Configuration](https://discover.data.vic.gov.au/dataset/traffic-signal-configuration-data-sheets)
+
+- **Usage:** Assists users in avoiding peak traffic times and locations. Bells related to traffic issues or congestion are analysed with traffic signal and volume data to provide alternative routes and improve travel efficiency.
+
+**Train Service Passenger Counts – Vic Gov**
+
+- **URL:** [Train Service Passenger Counts](https://discover.data.vic.gov.au/dataset/train-service-passenger-counts)
+
+- **Usage:** Shows peak train passenger times. User-reported bells about crowded trains are combined with this data to suggest less crowded travel times or alternative transport options.
+
+**Victoria Road Crash Data**
+
+- **URL:** [Victoria Road Crash Data](https://discover.data.vic.gov.au/dataset/victoria-road-crash-data)
+
+- **Usage:** Provides information on road crash hotspots. Bells about road safety concerns are matched with crash data to suggest safer routes and avoid high-risk areas.
+
+**Speed Signs & Zones – Vic Gov**
+
+- **URLs:**
+
+  - [Speed Signs](https://discover.data.vic.gov.au/dataset/speed-signs)
+
+  - [Speed Zones](https://discover.data.vic.gov.au/dataset/speed-zones)
+
+- **Usage:** Informs users about speed limits and signage. Bells related to speed-related concerns help users find roads with appropriate speed limits and clear signage, ensuring safer journeys.
+
+## Externally Sourced Data
+
+- **Emergency Services Agency – ACT Gov**
+
+  - **URLs:**
+
+    - [ACT Emergency Services](https://esa.act.gov.au/)
+
+    - [ACT ESA Current Incidents](https://www.data.act.gov.au/Disaster/ACT-ESA-Current-Incidents/59jb-5aq2/about_data)
+
+  - **Usage:** Details critical emergencies and current incidents. Bells raised about emergencies help users receive updated evacuation information and safety recommendations based on real-time data.
+
+- **Air Quality – ACT Gov**
+
+  - **URL:** [Air Quality Monitoring Data](https://www.data.act.gov.au/Environment/Air-Quality-Monitoring-Data/94a5-zqnn/about_data)
+
+  - **Usage:** Provides information on air quality. Bells related to air quality concerns help users with health issues, such as asthma, determine if it is safe to engage in outdoor activities.
+
+- **Cyclist Crashes – ACT Gov**
+
+  - **URL:** [Cyclist Crashes Heat Map](https://www.data.act.gov.au/Transport/Cyclist-Crashes-Heat-Map/8ea8-wvzq)
+
+  - **Usage:** Highlights areas with high cyclist crash rates. Bells about cycling safety help users find safer routes and times to cycle, reducing the risk of accidents.
+
+- **Temporary Road & Footpath Closures – ACT Gov**
+
+  - **URLs:**
+
+    - [Road Closures](https://www.data.act.gov.au/Transport/Temporary-Traffic-Management-TTM-Planned-Road-Clos/gcdw-wgd8/about_data)
+
+    - [Footpath Closures](https://www.data.act.gov.au/Transport/Temporary-Traffic-Management-TTM-Planned-Footpath-/6ivw-zizr/about_data)
+
+  - **Usage:** Provides details on road and footpath closures. Bells raised about disruptions help users find alternate routes and avoid construction or maintenance areas, ensuring a smoother travel experience.
