@@ -11,7 +11,7 @@
 <hr>
 <p align="center">
     <a href="https://coral.miris.design">
-        Access Our App
+        Access Our Demo!
     </a>
     •
     <a href="https://github.com/MirisWisdom/Collar.Bells/blob/master/doc/executive-summary.pdf">
@@ -20,6 +20,18 @@
 </p>
 <img src="https://github.com/MirisWisdom/Collar.Bells/blob/master/preview.png">
 <hr>
+
+- [Our Project](#our-project)
+  - [Our Team](#our-team)
+  - [Our Challenges and Goals](#our-challenges-and-goals)
+    - [Enhancing Public Safety: The Bell of Safety](#enhancing-public-safety-the-bell-of-safety)
+    - [Inspiring Civic Engagement: Corals Contributing to Community](#inspiring-civic-engagement-corals-contributing-to-community)
+    - [Innovating Wellbeing Measurement: Insights from Safety Data](#innovating-wellbeing-measurement-insights-from-safety-data)
+    - [Indirect Benefits and Positive Consequences: Boosting Tourism in the Northern Territory](#indirect-benefits-and-positive-consequences-boosting-tourism-in-the-northern-territory)
+  - [AI Integration and Data Extrapolation](#ai-integration-and-data-extrapolation)
+- [Our Data Story](#our-data-story)
+  - [GovHack Open Data](#govhack-open-data)
+  - [Externally Sourced Data](#externally-sourced-data)
 
 # Our Project
 
@@ -57,17 +69,16 @@ With safety and security being a pillar for everyone's wellbeing and confidence,
 
 ## Our Team
 
+We are The Late Bloomers, a team of people who complemented each other throughout the participation:
+
 - Luz de Luna Gomez Gonzalez
-
 - Emilian Roman
-
 - Shann Roberts
-
 - Tom Jia
 
 ## Our Challenges and Goals
 
-### **Enhancing Public Safety: The Bell of Safety**
+### Enhancing Public Safety: The Bell of Safety
 
 **Our Goal:** Improve public safety and reduce risks from various safety incidents.
 
