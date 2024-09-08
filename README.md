@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://github.com/MirisWisdom/Collar.Bells/blob/master/logo.png"
+    <img src="https://github.com/MirisWisdom/Coral.Bells/blob/master/logo.png"
          width="192px">
 </p>
 <h1 align="center">
-    Collar Bells
+    Coral Bells
 </h1>
 <p align="center">
     <b>Guiding and Reassuring Safety, Holistically and Empathetically</b>
@@ -14,11 +14,11 @@
         Access Our Demo!
     </a>
     •
-    <a href="https://github.com/MirisWisdom/Collar.Bells/blob/master/doc/executive-summary.pdf">
+    <a href="https://github.com/MirisWisdom/Coral.Bells/blob/master/doc/executive-summary.pdf">
         Executive Summary
     </a>
 </p>
-<img src="https://github.com/MirisWisdom/Collar.Bells/blob/master/preview.png">
+<img src="https://github.com/MirisWisdom/Coral.Bells/blob/master/preview.png">
 <hr>
 
 - [Our Project](#our-project)
@@ -275,7 +275,7 @@ We enhance user safety and comfort by integrating open government data with crow
 
 The user-facing mobile app and government-facing dashboards are both powered by a hybrid back-end.
 
-![diagram](https://github.com/MirisWisdom/Collar.Bells/blob/master/doc/architecture-data.svg)
+![diagram](https://github.com/MirisWisdom/Coral.Bells/blob/master/doc/architecture-data.svg)
 
 1. The "Core", in effect, holistically unifies everything and drives it all, to provide a seamless experience to our end-users.
 2. We use LLMs to take end-user input in natural text/voice, synthesise relevant journey guides in a friendly, empathetic way, and provide executive briefs, reports and suggestions to governments/policy-makers.
