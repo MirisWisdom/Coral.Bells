@@ -38,7 +38,7 @@
     @livewireStyles
 </head>
 
-<body class="pb-5 font-sans antialiased {{ isset($bg) ? $bg : 'bg-01' }}">
+<body class="font-sans antialiased {{ isset($bg) ? $bg : 'bg-01' }}">
 
     <div class="min-h-screen bg-gray-100 dark:bg-gray-900">
 
@@ -52,7 +52,7 @@
         @endif
 
         <!-- Page Content -->
-        <main class="pb-5">
+        <main>
             @yield('body')
         </main>
     </div>

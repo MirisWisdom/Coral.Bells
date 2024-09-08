@@ -24,9 +24,6 @@
              style="font-size: 32pt">
             {{ config('app.name') }}
         </div>
-        <div class="text-light text-center">
-            {{ config('app.team') }}
-        </div>
     </header>
     <main class="row">
         <div class="col-md">
@@ -54,4 +51,7 @@
         <div class="col-md">
         </div>
     </main>
+    <footer class="fixed-bottom text-primary text-center mb-4">
+        {{ config('app.team') }}
+    </footer>
 </div>
