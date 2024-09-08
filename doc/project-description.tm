@@ -1,4 +1,4 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1.4>
 
 <style|<tuple|generic|british>>
 
@@ -58,7 +58,7 @@
 
   <hrule>
 
-  <section|Our Team>
+  <section*|Our Team>
 
   <\itemize>
     <item>Luz de Luna Gomez Gonzalez
@@ -70,15 +70,11 @@
     <item>Tom Jia
   </itemize>
 
-  <section|Our Data Sets>
+  <section*|Our Challenges and Goals>
 
-  <itemize|<item>TBD>
+  <subsection*|<strong|Enhancing Public Safety: The Bell of Safety>>
 
-  <section|Our Challenges>
-
-  <subsection|<strong|Enhancing Public Safety: The Bell of Safety>>
-
-  <strong|Challenge:> Improve public safety and reduce risks from various
+  <strong|Our Goal:> Improve public safety and reduce risks from various
   safety incidents.
 
   <strong|GovHack Challenges:> <with|font-shape|italic|Crocodile Watch:
@@ -94,8 +90,8 @@
       incidents such as crocodile sightings, car crashes, bush fires, and
       hazards, or simply express feelings of unease. This crowdsourced data,
       combined with existing open government data, informs the safety
-      guidance we offer users and provides valuable insights and
-      recommendations to governments.
+      guidance we offer users and provides valuable insights, recommendations
+      and crowd-sourced data to governments.
 
       <item><strong|Safe Places Map:> To avoid inadvertently guiding users
       through potentially dangerous areas, the map exclusively highlights
@@ -110,13 +106,13 @@
     </itemize>
   </itemize>
 
-  <subsection|Inspiring Civic Engagement: Corals Contributing to Community>
+  <subsection*|Inspiring Civic Engagement: Corals Contributing to Community>
 
-  <strong|Challenge:> Increase civic participation and enhance community
+  <strong|Our Goal:> Increase civic participation and enhance community
   connection and resilience.
 
-  <strong|GovHack Challenges:> Civic participation for a more resilient,
-  cohesive democracy.
+  <strong|GovHack Challenges:> <with|font-shape|italic|Civic participation
+  for a more resilient, cohesive democracy.>
 
   <strong|Solution:>
 
@@ -153,13 +149,13 @@
     </itemize>
   </itemize>
 
-  <subsection|Innovating Wellbeing Measurement: Insights from Safety Data>
+  <subsection*|Innovating Wellbeing Measurement: Insights from Safety Data>
 
   <strong|Challenge:> Enhance the measurement and understanding of societal
   wellbeing using diverse data sources.
 
-  <strong|GovHack Challenges:> Innovating Wellbeing Measurement \U Uncovering
-  New Connections
+  <strong|GovHack Challenges:> <with|font-shape|italic|Innovating Wellbeing
+  Measurement \U Uncovering New Connections>
 
   <strong|Solution:>
 
@@ -196,11 +192,11 @@
     comprehensive measure of community health and happiness.>
   </itemize>
 
-  <subsection|Indirect Benefits and Positive Consequences: Boosting Tourism
+  <subsection*|Indirect Benefits and Positive Consequences: Boosting Tourism
   in the Northern Territory>
 
-  <strong|Challenge:> Support local tourism and regional development through
-  enhanced safety and confidence.
+  <strong|Our Goal:> Broader impact, even indirectly, e.g. boost local
+  tourism and regional development through enhanced safety and confidence.
 
   <with|font-series|bold|GovHack Challenges:>
   <with|font-shape|italic|Boosting Tourism in the Northern Territory>
@@ -234,7 +230,7 @@
     growth.>
   </itemize>
 
-  <strong|4. AI Integration and Data Extrapolation>
+  <section*|AI Integration and Data Extrapolation>
 
   <\itemize>
     <item><strong|AI Utilisation:>
@@ -264,6 +260,8 @@
     historical trends, the project contributes to more effective safety
     measures, civic engagement strategies, and wellbeing initiatives.>
   </itemize>
+
+  \;
 </body>
 
 <\initial>
@@ -275,48 +273,48 @@
 
 <\references>
   <\collection>
-    <associate|auto-1|<tuple|1|1|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
-    <associate|auto-2|<tuple|2|1|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
-    <associate|auto-3|<tuple|3|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
-    <associate|auto-4|<tuple|3.1|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
-    <associate|auto-5|<tuple|3.2|2|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
-    <associate|auto-6|<tuple|3.3|3|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
-    <associate|auto-7|<tuple|3.4|3|C:\\Users\\Miris\\AppData\\Roaming\\TeXmacs\\texts\\scratch\\no_name_2.tm>>
+    <associate|auto-1|<tuple|?|1>>
+    <associate|auto-2|<tuple|<with|mode|<quote|math>|\<bullet\>>|1>>
+    <associate|auto-3|<tuple|<with|mode|<quote|math>|\<bullet\>>|1>>
+    <associate|auto-4|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|2>>
+    <associate|auto-5|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|2>>
+    <associate|auto-6|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|3>>
+    <associate|auto-7|<tuple|<with|mode|<quote|math>|<rigid|\<circ\>>>|4>>
   </collection>
 </references>
 
 <\auxiliary>
   <\collection>
     <\associate|toc>
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|1<space|2spc>Our
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Our
       Team> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-1><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|2<space|2spc>Our
-      Data Sets> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Our
+      Challenges and Goals> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-2><vspace|0.5fn>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|3<space|2spc>Our
-      Challenges> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-3><vspace|0.5fn>
-
-      <with|par-left|<quote|1tab>|3.1<space|2spc><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Enhancing
+      <with|par-left|<quote|1tab>|<with|font-series|<quote|bold>|math-font-series|<quote|bold>|Enhancing
       Public Safety: The Bell of Safety> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-3>>
+
+      <with|par-left|<quote|1tab>|Inspiring Civic Engagement: Corals
+      Contributing to Community <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-4>>
 
-      <with|par-left|<quote|1tab>|3.2<space|2spc>Inspiring Civic Engagement:
-      Corals Contributing to Community <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <with|par-left|<quote|1tab>|Innovating Wellbeing Measurement: Insights
+      from Safety Data <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-5>>
 
-      <with|par-left|<quote|1tab>|3.3<space|2spc>Innovating Wellbeing
-      Measurement: Insights from Safety Data
+      <with|par-left|<quote|1tab>|Indirect Benefits and Positive
+      Consequences: Boosting Tourism in the Northern Territory
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-6>>
 
-      <with|par-left|<quote|1tab>|3.4<space|2spc>Indirect Benefits and
-      Positive Consequences: Boosting Tourism in the Northern Territory
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|AI
+      Integration and Data Extrapolation>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-7>>
+      <no-break><pageref|auto-7><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
