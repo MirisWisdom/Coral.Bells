@@ -22,7 +22,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 	file \
 	gettext \
 	git \
-	mariadb-client \
+	sqlite3 \
 	&& rm -rf /var/lib/apt/lists/*
 
 RUN set -eux; \
@@ -32,7 +32,7 @@ RUN set -eux; \
 		intl \
 		opcache \
 		zip \
-		pdo_mysql \
+		pdo_sqlite \
 	;
 
 # https://getcomposer.org/doc/03-cli.md#composer-allow-superuser

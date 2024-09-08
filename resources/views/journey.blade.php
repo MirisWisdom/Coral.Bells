@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('body')
-    <livewire:welcome/>
+    <livewire:journey />
 @endsection

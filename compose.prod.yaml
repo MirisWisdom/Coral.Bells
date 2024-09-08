@@ -6,6 +6,7 @@ services:
       SERVER_NAME: ${SERVER_NAME:-coral.miris.design}, :80
 
       APP_NAME: ${APP_NAME:-"Coral Bells"}
+      APP_TEAM: ${APP_TEAM:-"Eastern Corals"}
       APP_ENV: ${APP_ENV:-production}
       APP_KEY: ${APP_KEY} # base64:$(head -c32 /dev/urandom | base64)
       APP_DEBUG: ${APP_DEBUG:-false}
@@ -26,12 +27,12 @@ services:
       LOG_DEPRECATIONS_CHANNEL: ${LOG_DEPRECATIONS_CHANNEL:-null}
       LOG_LEVEL: ${LOG_LEVEL:-debug}
 
-      DB_CONNECTION: ${DB_CONNECTION:-mysql}
-      DB_HOST: ${DB_HOST:-mysql}
-      DB_PORT: ${DB_PORT:-3306}
-      DB_DATABASE: ${DB_DATABASE:-coral}
-      DB_USERNAME: ${DB_USERNAME:-coral}
-      DB_PASSWORD: ${DB_PASSWORD:-coral}
+      DB_CONNECTION: ${DB_CONNECTION:-sqlite}
+      # DB_HOST: ${DB_HOST:-mysql}
+      # DB_PORT: ${DB_PORT:-3306}
+      # DB_DATABASE: ${DB_DATABASE:-coral}
+      # DB_USERNAME: ${DB_USERNAME:-coral}
+      # DB_PASSWORD: ${DB_PASSWORD:-coral}
 
       SESSION_DRIVER: ${SESSION_DRIVER:-database}
       SESSION_LIFETIME: ${SESSION_LIFETIME:-120}
@@ -102,31 +103,6 @@ services:
         - curl
         - -f
         - http://localhost:80/up
-      retries: 3
-      timeout: 5s
-
-  mysql:
-    image: mysql/mysql-server:8.0
-    restart: unless-stopped
-    ports:
-      - ${FORWARD_DB_PORT:-3306}:3306
-    environment:
-      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD:-coral}
-      MYSQL_ROOT_HOST: '%'
-      MYSQL_DATABASE: ${DB_DATABASE:-coral}
-      MYSQL_USER: ${DB_USERNAME:-coral}
-      MYSQL_PASSWORD: ${DB_PASSWORD:-coral}
-      MYSQL_ALLOW_EMPTY_PASSWORD: 1
-    volumes:
-      - mysql_database:/var/lib/mysql
-    networks:
-      - coral
-    healthcheck:
-      test:
-        - CMD
-        - mysqladmin
-        - ping
-        - -p${DB_PASSWORD:-coral}
       retries: 3
       timeout: 5s
 
