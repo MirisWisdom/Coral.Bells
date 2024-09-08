@@ -21,3 +21,7 @@ Route::get('/report', function () {
 Route::get('/profile', function () {
     return view('profile');
 })->name('profile');
+
+Route::get('/government', function () {
+    return view('government');
+})->name('government');

@@ -49,6 +49,13 @@
                         Raise A New Bell
                     </div>
                 </a>
+                <hr>
+                <a class="btn w-100 btn-outline-dark py-3 mt-2 mb-2"
+                   href="{{ route('government') }}">
+                    <div class="h4 mb-0 text-uppercase text-dark">
+                        Insights Dashboard
+                    </div>
+                </a>
             </div>
         </div>
         <div class="col-md">
